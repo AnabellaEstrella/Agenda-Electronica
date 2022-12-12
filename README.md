@@ -6,7 +6,7 @@ El trabajo consistió en la construcción de una aplicación de escritorio que f
 
 📄 [Consigna del TP](https://drive.google.com/file/d/1mZgWduCiYEFuWA9Ohqe3vqAxwDCIsHEj/view?usp=sharing)
 
-## Construido con 🛠️
+## 🛠️ Construido con
 - Java 8
 - Java SE Development Kit 8
 - Java Swing
